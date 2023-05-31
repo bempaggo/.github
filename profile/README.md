@@ -11,6 +11,7 @@ Utilize nossas SDKs para uma experiência completa de integração com nossas AP
 
 ### Faça parte do nosso time
 
+Crie um fork do [Developer Challenge](https://github.com/bempaggo/developer-challenge) mostre porque você merece fazer parte do nosso time e solicite um pull request.
 
 <!--
 **Here are some ideas to get you started:**
