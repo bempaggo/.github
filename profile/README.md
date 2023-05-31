@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá! Somos o Bempaggo 👋
+
+Bem-vindo à nossa organização no GitHub!
+Nosso objetivo aqui é que os desenvolvedores tenham sucesso ao integrar com nossas APIs.
 
 <!--
 
@@ -10,3 +13,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Nós :blue_heart: APIs e Pagamentos
