@@ -9,7 +9,7 @@ Nosso objetivo aqui é que os desenvolvedores tenham sucesso ao integrar com nos
 Utilize nossas SDKs para uma experiência completa de integração com nossas APIs.
 
 
-### Faça parte do nosso time
+### 👩‍💻 Faça parte do nosso time 👨‍💻
 
 Crie um fork do [Developer Challenge](https://github.com/bempaggo/developer-challenge) mostre porque você merece fazer parte do nosso time e solicite um pull request.
 
