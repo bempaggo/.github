@@ -1,3 +1,5 @@
+<img align="right" width="33%" style="margin-bottom: 2em" src="https://bempaggo-sites.s3.sa-east-1.amazonaws.com/avatar.png">
+
 ## Olá! Somos o Bempaggo 👋
 
 Bem-vindo à nossa organização no GitHub!
